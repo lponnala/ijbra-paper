@@ -25,5 +25,3 @@ The code has been tested using MATLAB version 7.6.0 (R2008a) on a Windows XP mac
 
 You need not run mainscript.m, since all of its outputs have been provided as data files. 
 To verify the results presented in the paper, simply run the script evalclust.m
-
-<hr>
