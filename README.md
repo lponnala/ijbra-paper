@@ -1,7 +1,7 @@
 
 #### Description
 
-This repository contains supplementary material and software code to accompany the following manuscript:
+This repository contains supplementary material and software code to accompany the following publication:
 
 **Lalit Ponnala**. *Detecting slow-translating regions in E.coli*. International Journal of Bioinformatics Research and Applications 2010; 6(5): 522-530
 
