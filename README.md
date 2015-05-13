@@ -5,6 +5,8 @@ This repository contains supplementary material and software code to accompany t
 
 **Lalit Ponnala**. *Detecting slow-translating regions in E.coli*. International Journal of Bioinformatics Research and Applications 2010; 6(5): 522-530
 
+<hr>
+
 #### Instructions
 
 You must first download the compressed code (Code.zip) and data (Data.zip) files and unzip them. 
@@ -23,3 +25,5 @@ The code has been tested using MATLAB version 7.6.0 (R2008a) on a Windows XP mac
 
 You need not run mainscript.m, since all of its outputs have been provided as data files. 
 To verify the results presented in the paper, simply run the script evalclust.m
+
+<hr>
