@@ -17,4 +17,4 @@ The code has been tested using MATLAB version 7.6.0 (R2008a) on a Windows XP mac
 - evalclust.m : this script evaluates various features of the distinct clusters
 
 
-You need not run mainscript.m, since all of its outputs have been provided as data files. To verify the results presented in the paper, simply run the script evalclust.m
+You need not run mainscript.m, since all of its outputs have been provided as .mat files. To verify the results presented in the paper, simply run the script evalclust.m
